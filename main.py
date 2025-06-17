@@ -35,7 +35,7 @@ def Again(): #Again :
 if 1==2 : #I used this to prenevnt unlimited looping
      Again()  #goto Again
 
-
+#just make ur program a function and call it. it will work like goto in cpp,c, c#
 
 
 
